@@ -11,5 +11,8 @@ features:
   details: 通过IT技术丰富生活质量
 - title: 模型制作分享
   details: 百余台高达模型制作分享
-footer: Made by  with skywalkervenne
+footer: "Apache-2.0 Licensed | Copyright © 2020 
+  <br>
+  <a href='https://beian.miit.gov.cn' target='_blank' style='color: var(--c-text-lighter);'>闽ICP备2023005182号-1</a>"
+footerHtml: true
 ---
