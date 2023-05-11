@@ -16,5 +16,7 @@ footer:
 footerHtml: true
 ---
 ::: slot footer
-Apache-2.0 Licensed | Copyright © 2020 [闽ICP备2023005182号-1](https://beian.miit.gov.cn)
+[闽ICP备2023005182号-1](https://beian.miit.gov.cn)
+![avatar](https://www.beian.gov.cn/portal/download?token=fbe18419-48e8-4393-9dc4-8db936a18f86)
+[闽公网安备 35020302035724号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=35020302035724)
 :::
