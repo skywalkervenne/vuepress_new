@@ -50,6 +50,7 @@ module.exports = {
           children: [
             '',
             'using-vue',
+            'new-idea',
           ]
         }
       ],
