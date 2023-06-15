@@ -1,4 +1,4 @@
-# Destination
+# Japan
 test
 ## Tokyo
 test
