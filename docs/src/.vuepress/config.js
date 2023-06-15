@@ -54,6 +54,22 @@ module.exports = {
           ]
         }
       ],
+      '/destination/': [
+        {
+          title: 'Destination',
+          collapsable: false,
+          children: [
+            'japan',
+            'xiamen',
+            'hangzhou',
+            'shanghai',
+            'beijing',
+            'xian',
+            'chongqing',
+            'northwest',
+          ]
+        }
+      ],
     }
   },
 
