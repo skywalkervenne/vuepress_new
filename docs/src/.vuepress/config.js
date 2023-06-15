@@ -54,18 +54,18 @@ module.exports = {
         ]
       },
       {
-        title: 'Destination',
+        title: 'Destinations',
         collapsable: false,
         sidebarDepth: 1,    // optional, defaults to 1
         children: [
-          '/destination/japan.md',
-          '/destination/xiamen',
-          '/destination/hangzhou',
-          '/destination/shanghai',
-          '/destination/beijing',
-          '/destination/xian',
-          '/destination/chongqing',
-          '/destination/northwest', 
+          '/destinations/japan.md',
+          '/destinations/xiamen',
+          '/destinations/hangzhou',
+          '/destinations/shanghai',
+          '/destinations/beijing',
+          '/destinations/xian',
+          '/destinations/chongqing',
+          '/destinations/northwest', 
         ],
         //initialOpenGroupIndex: -1 // optional, defaults to 0, defines the index of initially opened subgroup
       },
